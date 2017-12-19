@@ -1,4 +1,4 @@
-;; CL port of the knight tour c++ solution at:
+;; CL port of the knight tour c solution at:
 ;; http://www.geeksforgeeks.org/backtracking-set-1-the-knights-tour-problem/
 ;;
 (defvar *N* 8)
